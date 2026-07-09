@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "figma-design-agents",
+      "name": "design-team-skills",
       "source": "./",
       "description": "Три агента для дизайн-проектов в Figma: QA (доступность и адаптив), ревьюер (критика дизайна) и ресёрчер (референсы и тренды).",
       "version": "1.0.0",

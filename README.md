@@ -1,4 +1,4 @@
-# Figma Design Agents
+# Design Team Skills
 
 Плагин для Claude Code с тремя агентами под дизайн-проекты в Figma.
 
@@ -19,8 +19,8 @@
 ## Установка
 
 ```
-/plugin marketplace add v9516635482-create/figma-design-agents
-/plugin install figma-design-agents@vika-design-marketplace
+/plugin marketplace add v9516635482-create/design-team-skills
+/plugin install design-team-skills@vika-design-marketplace
 ```
 
 После установки перезапусти Claude Code. Агенты вызываются автоматически по смыслу задачи
