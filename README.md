@@ -19,7 +19,7 @@
 ## Установка
 
 ```
-/plugin marketplace add v9516635482-create/design-team-skills
+/plugin marketplace add ux-vika/design-team-skills
 /plugin install design-team-skills@design-team-marketplace
 ```
 
@@ -28,4 +28,4 @@
 
 ## Автор
 
-Виктория · [github.com/v9516635482-create](https://github.com/v9516635482-create)
+Виктория · [github.com/ux-vika](https://github.com/ux-vika)
