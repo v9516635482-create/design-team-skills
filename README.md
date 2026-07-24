@@ -32,6 +32,15 @@
 После установки перезапусти Claude Code. Агенты вызываются автоматически по смыслу задачи
 или явно — по имени.
 
+## Опционально: углубиться по UX
+
+Агенты самодостаточны — им хватает встроенного свода `rules/ux-rules.md`, и ведут они себя одинаково у всех, независимо от того, что ещё установлено. Если хочется покопать глубже вручную, есть отдельный **сторонний** плагин [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (автор nextlevelbuilder, лицензия MIT) — 99 UX-гайдлайнов, палитры, шрифтовые пары. Этим плагином он **не требуется**; ставится отдельно:
+
+```
+/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
+/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+```
+
 ## Автор
 
 Виктория · [github.com/ux-vika](https://github.com/ux-vika)
